@@ -1,7 +1,7 @@
 
 
 def m8ball():
-  f="c:\\users\pc1\downloads\m8ball.jpg"
+  f="J:\\magic-8-ball-6.jpg"
   p=makePicture(f)
   s=makeStyle(sansSerif,bold,18)
   addTextWithStyle(p,120,130,"NO",s,white)
